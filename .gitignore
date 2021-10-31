@@ -10,3 +10,4 @@ gupb/controller/botelka_ml/tmp/
 
 log-parse/*
 !log-parse/*.ipynb
+!log-parse/*.md
