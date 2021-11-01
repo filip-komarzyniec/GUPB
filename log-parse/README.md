@@ -11,7 +11,7 @@ Everything is implemented in `log_analyzer.ipynb`
     {
         "game_number": int,
         "mist_episode": int (-1 if a game ended quicker than the mist started),
-        "menhir_post": [int, int],
+        "menhir_pos": [int, int],
         "arena_name": string,
         "episodes_number": int,
         "bots": {
